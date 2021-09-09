@@ -1,6 +1,9 @@
 body{
     background-color: black;
 }
+.head{
+  color: white;
+}
 .container
 {
   max-width: 1000px;
